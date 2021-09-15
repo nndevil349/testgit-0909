@@ -1,4 +1,4 @@
 this is good txt 1
 
 this is 3 insert
-hot_fix insert 4 master
+hot_fix insert 4 master  test conflict 5
